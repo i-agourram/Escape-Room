@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: green;
+    margin-top: 175px;
+}
+
+h2{
+    text-align: center; 
+    color: red;
+}
+
+p{
+    text-align: center; 
+    color: white;
+    width: 800px;
+    margin-left: 550px;
+}
+
+body{
+    background-image: url(../img/715340.png);
+    background-size: cover;
+}
+
+button{
+    width: 300px;
+    height: 100px;
+    color: white;
+    background-color: green;
+    margin-left: 800px;
+    margin-top: 40px;
+}

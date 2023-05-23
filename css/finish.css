@@ -1,0 +1,20 @@
+
+body{
+    background-image: url(../img/einde1.png);
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    margin-top: 290px;
+    color:crimson;
+    font-size: 67px;
+}
+
+p{
+    text-align: center; 
+    color:white;
+    width: 800px;
+    margin-left: 550px;
+    font-size: 24px;
+}
